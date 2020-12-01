@@ -1,2 +1,3 @@
-# suberdeal.github.io
-Suberdeal online webshop
+---
+permalink /index.html
+---
